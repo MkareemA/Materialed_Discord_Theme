@@ -1,0 +1,32 @@
+/**
+ * Materialed Discord Theme Binosc7 Edition
+ * Copyright ¨Ï 2023 Suchan7820. All rights reserved.
+ * https://github.com/Suchan7820
+ * please donate me : https://toon.at/donate/suchan7820
+ */
+
+@import url(https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Materialed_Discord_Theme_Full_Source.css);
+
+:root {
+	--accent-hue: 224;
+	--accent-saturation: 71%;
+	--accent-lightness: 61%;
+	--accent-text-color: #fff;
+	--accent-button-action: #fff; /*	-	*/
+
+	--avatar-radius: 50%; /*	-	*/
+
+	--message-radius: 0px;
+	--message-padding-top: 8px;
+	--message-padding-side: 6px; /*	-	*/
+
+	--media-radius: 8px; /*	-	*/
+
+	--card-radius: 8px;
+	--card-radius-big: 18px; /*	-	*/
+
+	--popout-radius: 8px;
+	--popout-radius-big: 18px;
+
+	--window-title-bar: 30px;
+}
