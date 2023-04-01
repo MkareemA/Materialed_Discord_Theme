@@ -23,10 +23,10 @@
 	--media-radius: 8px; /*	-	*/
 
 	--card-radius: 8px;
-	--card-radius-big: 18px; /*	-	*/
+	--card-radius-big: 8px; /*	-	*/
 
 	--popout-radius: 8px;
-	--popout-radius-big: 18px;
+	--popout-radius-big: 8px;
 
 	--window-title-bar: 30px;
 }
