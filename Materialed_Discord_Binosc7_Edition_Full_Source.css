@@ -148,8 +148,8 @@
   --status-picker-color: #dee0e0;
   --sidebar-panel-color: #ebeced;
   --chat-color: var(--main-color);
-  --message-color: hsl(210,4%,90%);
-  --message-color-hover: hsl(210,4%,86%);
+  --message-color: hsla(210,4%,90%,0%);
+  --message-color-hover: hsla(210,4%,86%,50%);
   --message-color-alt: hsl(210,4%,84%);
   --attachment-color: hsl(210,4%,79%);
   --main-textarea-color-alt: hsl(0,0%,98%);
@@ -275,6 +275,7 @@ body,
 }
 .wordmark-2u86JB.wordmarkWindows-2dq6rw:before {
   content: "Discord";
+  font-weight: 700;
 }
 .wordmark-2u86JB.wordmarkWindows-2dq6rw:after {
   content: " Binosc7 Edition";
