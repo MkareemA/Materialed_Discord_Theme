@@ -5,10 +5,11 @@
  * please donate me : https://toon.at/donate/suchan7820
  */
 
-@import url("https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Vencord/Theme/Materialed_Discord_Binosc7_Edition/css/fonts/Google_sans.css");
+@import url("https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css");
 @import url("https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Vencord/Theme/Materialed_Discord_Binosc7_Edition/css/icons.css");
+
 :root {
-  --app-font: "Google Sans";
+  --app-font: "SUIT";
   --app-bg: var(--main-alt);
   --accent-hue: 224;
   --accent-saturation: 71%;

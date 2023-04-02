@@ -8,25 +8,26 @@
 @import url(https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Materialed_Discord_Binosc7_Edition_Full_Source.css);
 
 :root {
+	/* if you want to change font, use --app-font: "Fontname";*/
 	--accent-hue: 224;
 	--accent-saturation: 71%;
 	--accent-lightness: 61%;
 	--accent-text-color: #fff;
-	--accent-button-action: #fff; /*	-	*/
+	--accent-button-action: #fff
 
-	--avatar-radius: 50%; /*	-	*/
+	--avatar-radius: 50%; /* chatting - user profile image radius */
 
-	--message-radius: 0px;
+	--message-radius: 0px; /* message hovering form radius*/
 	--message-padding-top: 8px;
-	--message-padding-side: 6px; /*	-	*/
+	--message-padding-side: 6px; 
 
-	--media-radius: 8px; /*	-	*/
+	--media-radius: 8px; /* chatting - video/image (in chat) radius */
 
 	--card-radius: 8px;
-	--card-radius-big: 8px; /*	-	*/
+	--card-radius-big: 8px;
 
 	--popout-radius: 8px;
 	--popout-radius-big: 8px;
 
-	--window-title-bar: 30px;
+	--window-title-bar: 30px; /* Windows Title bar height*/
 }
