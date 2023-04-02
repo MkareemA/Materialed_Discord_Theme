@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Vencord",
+    "\\Vencord\\Theme",
+    "\\Vencord\\Theme\\Materialed_Discord_Binosc7_Edition",
+    "\\Vencord\\Theme\\Materialed_Discord_Binosc7_Edition\\css",
+    "\\Vencord\\Theme\\Materialed_Discord_Binosc7_Edition\\css\\fonts"
   ],
-  "SelectedNode": "\\C:\\Users\\Suchan7820\\Source\\Repos\\materialed_discord_theme",
+  "SelectedNode": "\\Materialed_Discord_Binosc7_Edition_Full_Source.css",
   "PreviewInSolutionExplorer": false
 }
