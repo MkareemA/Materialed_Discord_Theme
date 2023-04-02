@@ -5,10 +5,10 @@
  * please donate me : https://toon.at/donate/suchan7820
  */
 
-/*@import url("https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Vencord/Theme/Materialed_Discord_Binosc7_Edition/css/fonts/Google_sans.css");*/
-/*@import url("https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Vencord/Theme/Materialed_Discord_Binosc7_Edition/css/icons.css");*/
+@import url("https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Vencord/Theme/Materialed_Discord_Binosc7_Edition/css/fonts/Google_sans.css");
+@import url("https://raw.githubusercontent.com/Suchan7820/Materialed_Discord_Theme/main/Vencord/Theme/Materialed_Discord_Binosc7_Edition/css/icons.css");
 :root {
-  /*--app-font: "Google Sans";*/
+  --app-font: "Google Sans";
   --app-bg: var(--main-alt);
   --accent-hue: 224;
   --accent-saturation: 71%;
@@ -83,7 +83,7 @@
   --sidebar-panel-color: #212226;
   --chat-color: var(--main-color);
   --message-color: hsla(216,7%,14%,0%);
-  --message-color-hover: hsla(216,7%,18%,50%);
+  --message-color-hover: hsla(216,7%,18%,25%);
   --message-color-alt: hsl(216,7%,13%);
   --attachment-color: hsl(216,7%,9%);
   --typing-color: rgba(22,23,26,0.9);
@@ -149,7 +149,7 @@
   --sidebar-panel-color: #ebeced;
   --chat-color: var(--main-color);
   --message-color: hsla(210,4%,90%,0%);
-  --message-color-hover: hsla(210,4%,86%,50%);
+  --message-color-hover: hsla(210,4%,86%,25%);
   --message-color-alt: hsl(210,4%,84%);
   --attachment-color: hsl(210,4%,79%);
   --main-textarea-color-alt: hsl(0,0%,98%);
